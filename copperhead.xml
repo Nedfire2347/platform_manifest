@@ -23,6 +23,7 @@
     <linkfile src="tools" dest="build/tools" />
   </project>
   <project path="device/common" name="device_common" remote="github" />
+  <project path="device/google/crosshatch" name="device_google_crosshatch" remote="github" />
   <project path="device/google/marlin" name="device_google_marlin" remote="github" />
   <project path="device/google/muskie" name="device_google_muskie" remote="github" />
   <project path="device/google/taimen" name="device_google_taimen" remote="github" />
@@ -63,6 +64,7 @@
   <project path="external/privacy-friendly-netmonitor" name="platform_external_privacy-friendly-netmonitor" remote="github" />
   <project path="external/Silence" name="platform_external_Silence" remote="github"/>
   <project path="external/talkback" name="platform_external_talkback" remote="github" />
+  <project path="kernel/google/crosshatch" name="kernel_google_crosshatch" remote="github" />
   <project path="kernel/google/marlin" name="kernel_google_marlin" remote="github" />
   <project path="kernel/google/wahoo" name="kernel_google_wahoo" remote="github" />
   <project path="manifest" name="platform_manifest" remote="github" />

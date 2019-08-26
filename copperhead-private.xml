@@ -24,6 +24,7 @@
     <linkfile src="tools" dest="build/tools" />
   </project>
   <project path="device/common" name="device/common" remote="gitlab" />
+  <project path="device/google/crosshatch" name="device/google/crosshatch" remote="gitlab" />
   <project path="device/google/marlin" name="device/google/marlin" remote="gitlab" />
   <project path="device/google/muskie" name="device/google/muskie" remote="gitlab" />
   <project path="device/google/taimen" name="device/google/taimen" remote="gitlab" />
@@ -64,6 +65,7 @@
   <project path="external/privacy-friendly-netmonitor" name="external/privacy-friendly-netmonitor" remote="gitlab" />
   <project path="external/Silence" name="external/Silence" remote="gitlab"/>
   <project path="external/talkback" name="external/talkback" remote="gitlab" />
+  <project path="kernel/google/crosshatch" name="kernel/google/crosshatch" remote="gitlab" />
   <project path="kernel/google/marlin" name="kernel/google/marlin" remote="gitlab" />
   <project path="kernel/google/wahoo" name="kernel/google/wahoo" remote="gitlab" />
   <project path="manifest" name="manifest" remote="gitlab" />
