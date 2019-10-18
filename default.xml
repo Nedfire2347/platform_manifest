@@ -5,6 +5,4 @@
   <include name="copperhead-removals.xml" />
   <include name="copperhead.xml" />
 
-  <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
-
 </manifest>
