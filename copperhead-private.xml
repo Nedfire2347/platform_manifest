@@ -39,6 +39,7 @@
   <project path="libcore" name="libcore" remote="gitlab" />
   <project path="packages/apps/Bluetooth" name="packages/apps/Bluetooth" remote="gitlab" />
   <project path="packages/apps/Camera2" name="packages/apps/Camera2" remote="gitlab" />
+  <project path="packages/apps/Changelog" name="packages/apps/Changelog" remote="gitlab" />
   <project path="packages/apps/Contacts" name="packages/apps/Contacts" remote="gitlab" />
   <project path="packages/apps/ExactCalculator" name="packages/apps/ExactCalculator" remote="gitlab" />
   <project path="packages/apps/Gallery2" name="packages/apps/Gallery2" remote="gitlab" />
