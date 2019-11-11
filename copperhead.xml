@@ -74,9 +74,4 @@
   <project path="script" name="script" remote="github" />
   <project path="vendor/android-prepare-vendor" name="android-prepare-vendor" remote="github" />
 
-  <!-- Begin WireGuard -->
-  <remote name="zx2c4"
-          fetch="https://git.zx2c4.com/" />
-  <project remote="zx2c4" name="WireGuard" path="kernel/wireguard" revision="refs/tags/0.0.20190227" sync-s="true" />
-
 </manifest>
