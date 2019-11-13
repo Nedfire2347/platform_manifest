@@ -37,6 +37,7 @@
   <project path="frameworks/opt/net/wifi" name="frameworks/opt/net/wifi" remote="gitlab" />
   <project path="libcore" name="libcore" remote="gitlab" />
   <project path="packages/apps/Bluetooth" name="packages/apps/Bluetooth" remote="gitlab" />
+  <project path="packages/apps/Bugreporter" name="packages/apps/Bugreporter" remote="gitlab" />
   <project path="packages/apps/Camera2" name="packages/apps/Camera2" remote="gitlab" />
   <project path="packages/apps/Changelog" name="packages/apps/Changelog" remote="gitlab" />
   <project path="packages/apps/Contacts" name="packages/apps/Contacts" remote="gitlab" />
