@@ -60,6 +60,7 @@
   <project path="kernel/google/crosshatch" name="kernel/google/crosshatch" remote="gitlab" />
   <project path="kernel/google/marlin" name="kernel/google/marlin" remote="gitlab" />
   <project path="kernel/google/wahoo" name="kernel/google/wahoo" remote="gitlab" />
+  <project path="kernel/configs" name="kernel/configs" remote="gitlab" />
   <project path="manifest" name="manifest" remote="gitlab" />
   <project path="packages/apps/F-Droid/privileged-extension" name="packages/apps/F-Droid/privileged-extension" remote="gitlab" />
   <project path="packages/apps/PdfViewer" name="packages/apps/PdfViewer" remote="gitlab" />
