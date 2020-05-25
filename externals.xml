@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Begin WireGuard -->
+ <!-- 
   <remote name="zx2c4"
           fetch="https://git.zx2c4.com/" />
   <project remote="zx2c4" name="WireGuard" path="kernel/wireguard" revision="refs/tags/0.0.20190227" sync-s="true" />
-
+-->
   <!-- Begin Seedvault -->
   <remote  name="stevesoltys-github"
            fetch="https://github.com/stevesoltys/" />
